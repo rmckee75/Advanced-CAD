@@ -22,7 +22,5 @@ In this assignment I relearned how to use revolved base and cut (in the knob par
 Build a contraption where a servo arm pushes a shelf up, and then use a motion study to see this in action
 ### Picture
 ![alt text](motionstudypic.PNG)
-### Video
-<video src="motionstudygif.GIF" width="320" height="200" controls preload></video>
 ### Lessons & Methods
 In this assignment I learned how to set up a motion study, by defining gravity, a motor, and selecting parts that will move when contacting each other. Additionally, I learned how to use a shell cut in creating many of the individual parts.	
