@@ -15,7 +15,7 @@ Use the gears from the last assignment and build a box where all the gears turn 
 ### Picture
 ![alt text](gearboxpic.png)
 ### Lessons & Methods
-In this assignment I relearned how to use revolved base and cut (in the knob part) and learned how to use gear mates in the assembly.
+In this assignment, I relearned how to use revolved base and cut (in the knob part) and learned how to use gear mates in the assembly.
 
 ## Motion Study
 ### Objective
@@ -23,4 +23,12 @@ Build a contraption where a servo arm pushes a shelf up, and then use a motion s
 ### Picture
 ![alt text](motionstudypic.PNG)
 ### Lessons & Methods
-In this assignment I learned how to set up a motion study, by defining gravity, a motor, and selecting parts that will move when contacting each other. Additionally, I learned how to use a shell cut in creating many of the individual parts.	
+In this assignment, I learned how to set up a motion study, by defining gravity, a motor, and selecting parts that will move when contacting each other. Additionally, I learned how to use a shell cut in creating many of the individual parts.	
+
+## Stress Analysis
+### Objective
+Build and then modify a solidworks part to have a Factor of Safety between 1 and 2
+### Picture
+![alt text](stressanalysispic.PNG)
+### Lessons & Methods
+In this assignment, I learned how to run the Simulation Express Analysis Wizard, which will tell you how much force is on different parts of an object.  In order to make the part safe, but not unnecesarilly bulky, I created two circular columns to help support the middle cut of the part.
